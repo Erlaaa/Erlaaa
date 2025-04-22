@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/lifelikeachllnge" target="blank"><img align="center" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" height="30" width="40" /></a>
+<a href="https://t.me/erlansharipov" target="blank"><img align="center" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" height="30" width="40" /></a>
 <a href="https://vk.com/miligrammqz" target="blank"><img align="center" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/vk.com.png" height="30" width="40" /></a>
 
 <div id="stats" align="left">
